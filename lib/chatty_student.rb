@@ -2,7 +2,7 @@ class ChattyStudent
   
   def hello 
     super 
-    pts
+    puts 
   end   
   
 end   
